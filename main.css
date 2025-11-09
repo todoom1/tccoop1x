@@ -1,11 +1,4 @@
-body {
-		background-image: url("https://www.bing.com/th/id/OGC.1226a417af2bc756a9f35250e0560f0d?pid=1.7&rurl=http%3a%2f%2fimg95.699pic.com%2fphoto%2f40144%2f1887.gif_wh860.gif&ehk=jfKCyvCwAwWT42Xs2WIFQY8pxvXmbTTYeh0NGwdnLM4%3d");
-		background-repeat: no-repeat;
-		background-position: center center;
-		background-attachment: fixed;
-		background-size: cover;
-	}
-	.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{margin-bottom:.5rem;font-weight:500;line-height:1.2}.h1,h1{font-size:2.5rem}.h2,h2{font-size:2rem}.h3,h3{font-size:1.75rem}.h4,h4{font-size:1.5rem}.h5,h5{font-size:1.25rem}.h6,h6{font-size:1rem}.lead{font-size:1.25rem;font-weight:300}
+.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{margin-bottom:.5rem;font-weight:500;line-height:1.2}.h1,h1{font-size:2.5rem}.h2,h2{font-size:2rem}.h3,h3{font-size:1.75rem}.h4,h4{font-size:1.5rem}.h5,h5{font-size:1.25rem}.h6,h6{font-size:1rem}.lead{font-size:1.25rem;font-weight:300}
 a {
     color: #007bff;
     text-decoration: none;
@@ -163,7 +156,7 @@ body {
     line-height: 1.5;
     color: #212529;
     text-align: left;
-    background-color: #fff
+    background-color: black;
 }
 :root {
     --blue: #007bff;
