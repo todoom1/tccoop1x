@@ -4,9 +4,6 @@ document.getElementById("sj").addEventListener("click", function() {
 document.getElementById("ff").addEventListener("click", function() {
   window.location.href = "https://bakmry.gziasti.com/app/register.php?site_id=1050&topId=2995191&selfPlanId=1897260";
 });
-document.getElementById("dmg").addEventListener("click", function() {
-  window.location.href = "https://tz.wx-gujdtq3.com/app/register.php?site_id=2228&topId=1351033";
-});
 document.getElementById("cf").addEventListener("click", function() {
   window.location.href = "https://pkajim.hfjcl.com/app/register.php?site_id=1032&topId=1839709";
 });
@@ -92,5 +89,6 @@ document.getElementById("63").innerHTML="新时代";
 document.getElementById("64").innerHTML="君临国际";
 
 document.getElementById("57").innerHTML="TC22.MY";
+
 
 
