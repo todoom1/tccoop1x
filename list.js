@@ -56,8 +56,6 @@ document.getElementById("1").innerHTML="赏金国际";
 
 document.getElementById("2").innerHTML="非凡娱乐";
 
-document.getElementById("3").innerHTML="大满贯";
-
 document.getElementById("4").innerHTML="超凡国际";
 
 document.getElementById("5").innerHTML="Top1体育";
@@ -89,6 +87,7 @@ document.getElementById("63").innerHTML="新时代";
 document.getElementById("64").innerHTML="君临国际";
 
 document.getElementById("57").innerHTML="TC22.MY";
+
 
 
 
