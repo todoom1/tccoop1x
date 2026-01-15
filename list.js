@@ -86,7 +86,8 @@ document.getElementById("63").innerHTML="新时代";
 
 document.getElementById("64").innerHTML="君临国际";
 
-document.getElementById("57").innerHTML="TC22.MY";
+document.getElementById("57").innerHTML="南风.xyz";
+
 
 
 
