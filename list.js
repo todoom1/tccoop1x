@@ -14,6 +14,8 @@ var bsjz = "aHR0cHM6Ly93eGJzai5hZ3JsZW8uY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0x
 var wdz = "aHR0cHM6Ly9vbmtyY3kuZm5icHN3LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTAyMCZ0b3BJZD0yOTI2MTEz";
 var stz = "aHR0cHM6Ly90ZmFqbi5oY2p3ai5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTEwNTgmdG9wSWQ9MjY0ODkmc2VsZlBsYW5JZD0yMTYwMA==";
 var xsdz = "aHR0cHM6Ly9kZXJlYXIuZm5icHN3LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTA1OSZ0b3BJZD01NzU3OSZzZWxmUGxhbklkPTQ5ODI4";
+var jlx = atob("aHR0cHM6Ly90ZmFqbi5oY2p3ai5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTIwODEmdG9wSWQ9MjMyMTEmc2VsZlBsYW5JZD04NDU=");
+
 
 var sjx = atob(sjz);
 var ffx = atob(ffz);
@@ -81,7 +83,7 @@ document.getElementById("xsd").addEventListener("click", function() {
 window.open(xsdx, '_blank');
 });
 document.getElementById("jl").addEventListener("click", function() {
-  alert("君临国际将于本月上线！");
+  window.open(jlx, '_blank');
 });
 
 document.getElementById("2").innerHTML="🔥十年信誉平台推荐";
@@ -121,5 +123,6 @@ document.getElementById("xsdn").innerHTML="新时代";
 document.getElementById("jln").innerHTML="君临国际";
 
 document.getElementById("1").innerHTML="南风.xyz";
+
 
 
