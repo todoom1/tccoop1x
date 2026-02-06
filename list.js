@@ -80,6 +80,9 @@ window.open(xsdx, '_blank');
 document.getElementById("jl").addEventListener("click", function() {
   window.open(jlx, '_blank');
 });
+document.getElementById("xy").addEventListener("click", function() {
+  window.open(atob("aHR0cHM6Ly9nZWR4cy5oY2p3ai5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTEwNTcmdG9wSWQ9OTUyMTc2OTYzMTE5MDI0OQ=="), '_blank');
+});
 
 document.getElementById("2").innerHTML="🔥十年信誉平台推荐";
 
@@ -92,6 +95,8 @@ document.getElementById("cfn").innerHTML="超凡国际";
 document.getElementById("t1n").innerHTML="Top1体育";
 
 document.getElementById("dfn").innerHTML="巅峰国际";
+
+document.getElementById("xyn").innerHTML="星耀国际";
 
 document.getElementById("ngn").innerHTML="NG28";
 
@@ -116,6 +121,7 @@ document.getElementById("xsdn").innerHTML="新时代";
 document.getElementById("jln").innerHTML="君临国际";
 
 document.getElementById("1").innerHTML="南风.xyz";
+
 
 
 
