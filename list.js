@@ -2,7 +2,6 @@ var sjz = "aHR0cHM6Ly94anZ1ZWIuaGVmYXNoaXAuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZ
 var ffz = "aHR0cHM6Ly9iYWttcnkuZ3ppYXN0aS5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTEwNTAmdG9wSWQ9Mjk5NTE5MSZzZWxmUGxhbklkPTE4OTcyNjA=";
 var cfz = "aHR0cHM6Ly9wa2FqaW0uaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMyJnRvcElkPTE4Mzk3MDk=";
 var t1z = "aHR0cHM6Ly9iYWttcnkuZ3ppYXN0aS5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTEwNTEmdG9wSWQ9NjM0MDAw";
-var xyz = "aHR0cHM6Ly9nZWR4cy5oY2p3ai5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTEwNTcmdG9wSWQ9OTUyMTc2OTYzMTE5MDI0OQ==";
 var dfz = "aHR0cHM6Ly9nZnZneC5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMwJnRvcElkPTEzODA2";
 var ngz = "aHR0cHM6Ly8zOC4xODEuMjMuMTg6NjAwMDQvIy9saW5rP2FsbHdpbj0xMTA0MjcwMA0=";
 var c7z = "aHR0cHM6Ly8xMDMuMzkuMTguMjExOjc3ODgvIy9saW5rP2FsbHdpbj03UWpVRVhYa3NXd2E2ZGE2SlFFJTJCc2clM0QlM0Q=";
@@ -21,7 +20,6 @@ var sjx = atob(sjz);
 var ffx = atob(ffz);
 var cfx = atob(cfz);
 var t1x = atob(t1z);
-var xyx = atob(xyz);
 var dfx = atob(dfz);
 var ngx = atob(ngz);
 var c7x = atob(c7z);
@@ -45,9 +43,6 @@ window.open(cfx, '_blank');
 });
 document.getElementById("t1").addEventListener("click", function() {
 window.open(t1x, '_blank');
-});
-document.getElementById("28q").addEventListener("click", function() {
-window.open(xyx, '_blank');
 });
 document.getElementById("df").addEventListener("click", function() {
 window.open(dfx, '_blank');
@@ -96,8 +91,6 @@ document.getElementById("cfn").innerHTML="超凡国际";
 
 document.getElementById("t1n").innerHTML="Top1体育";
 
-document.getElementById("xyn").innerHTML="星耀国际";
-
 document.getElementById("dfn").innerHTML="巅峰国际";
 
 document.getElementById("ngn").innerHTML="NG28";
@@ -123,6 +116,7 @@ document.getElementById("xsdn").innerHTML="新时代";
 document.getElementById("jln").innerHTML="君临国际";
 
 document.getElementById("1").innerHTML="南风.xyz";
+
 
 
 
