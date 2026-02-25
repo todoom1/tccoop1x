@@ -127,12 +127,10 @@ const month = today.getMonth() + 1;
 const year = today.getFullYear();
 const date = today.getDate();
 
-if (year === 2026) {
-alert("欢迎光临");
-}
-else if (year === 2026 && month === 3 && date === 3) {
+if (year === 2026 && month === 3 && date === 3) {
     alert("🎇祝您元宵节快乐！🎇");
 }
+
 
 
 
